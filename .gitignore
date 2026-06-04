@@ -1,0 +1,7 @@
+*.db
+*.sqlite
+data/
+CARGA/
+__pycache__/
+*.pyc
+.github_token
